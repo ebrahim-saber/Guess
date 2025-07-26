@@ -1,0 +1,14 @@
+D:\project\Guess the Number Game\Guess the Number Game\bin\Debug\net8.0\Guess the Number Game.exe
+D:\project\Guess the Number Game\Guess the Number Game\bin\Debug\net8.0\Guess the Number Game.deps.json
+D:\project\Guess the Number Game\Guess the Number Game\bin\Debug\net8.0\Guess the Number Game.runtimeconfig.json
+D:\project\Guess the Number Game\Guess the Number Game\bin\Debug\net8.0\Guess the Number Game.dll
+D:\project\Guess the Number Game\Guess the Number Game\bin\Debug\net8.0\Guess the Number Game.pdb
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\Guess the Number Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\Guess the Number Game.AssemblyInfoInputs.cache
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\Guess the Number Game.AssemblyInfo.cs
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\Guess the Number Game.csproj.CoreCompileInputs.cache
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\Guess the Number Game.dll
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\refint\Guess the Number Game.dll
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\Guess the Number Game.pdb
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\Guess the Number Game.genruntimeconfig.cache
+D:\project\Guess the Number Game\Guess the Number Game\obj\Debug\net8.0\ref\Guess the Number Game.dll

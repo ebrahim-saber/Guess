@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\Guess the Number Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6955769D-67F6-4D86-90AF-2DDCCE160F96}|Guess the Number Game\\Guess the Number Game.csproj|d:\\project\\guess the number game\\guess the number game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6955769D-67F6-4D86-90AF-2DDCCE160F96}|Guess the Number Game\\Guess the Number Game.csproj|solutionrelative:guess the number game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\Guess the Number Game\\Guess the Number Game\\Program.cs",
+              "RelativeDocumentMoniker": "Guess the Number Game\\Program.cs",
+              "ToolTip": "D:\\project\\Guess the Number Game\\Guess the Number Game\\Program.cs",
+              "RelativeToolTip": "Guess the Number Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:32:34.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
